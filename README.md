@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 
 ## Process Scheduler
 
@@ -32,7 +30,3 @@ G) After the loop stops and all process have exited print the statistics for the
 each process’s stats including total, min and max times
 
 All I/O times should be > 2
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>

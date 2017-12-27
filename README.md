@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[
-# ${1:Project Name}
+# ${1: Process Scheduler}
+
 TODO: Process Scheduler
-##Requirements
+## Requirements
 1. Bash terminal
 2. Gcc compiler
 

@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 
-# ${1:Process Scheduler}
+## Process Scheduler
 
 ## Requirements
 1. Bash terminal

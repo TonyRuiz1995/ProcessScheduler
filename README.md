@@ -2,7 +2,6 @@
   <content><![CDATA[
 # ${1: Process Scheduler}
 
-TODO: Process Scheduler
 ## Requirements
 1. Bash terminal
 2. Gcc compiler

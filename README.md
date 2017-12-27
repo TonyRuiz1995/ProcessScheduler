@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
-# ${1: Process Scheduler}
+
+# ${1:Process Scheduler}
 
 ## Requirements
 1. Bash terminal
@@ -24,9 +25,7 @@ E)swap processes from I/O to ready queues when I/O time is up
 
 F)Adjust priority of processes in ready queue so no processes waits too long and so higher priorities run first.
 
-G) After the loop stops and all process have exited print the statistics for
-
-               the OS setup for time limits
+G) After the loop stops and all process have exited print the statistics for the OS setup for time limits
 
 each process’s stats including total, min and max times
 

@@ -12,6 +12,8 @@
 2. cd into directory
 3. in command terminal enter "Make"
 ## Description
+C program to demonstrate how process scheduling works
+
 Program Objectives:
 A)Define Processes
 
